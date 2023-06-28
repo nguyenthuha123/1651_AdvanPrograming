@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelLibrary\bin\Debug\CoffeeAngelLibrary.dll
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelLibrary\bin\Debug\CoffeeAngelLibrary.pdb
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelLibrary\obj\Debug\CoffeeAngelLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelLibrary\obj\Debug\CoffeeAngelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelLibrary\obj\Debug\CoffeeAngelLibrary.dll
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelLibrary\obj\Debug\CoffeeAngelLibrary.pdb

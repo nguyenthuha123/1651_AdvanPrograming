@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\obj\Debug\CoffeeAngelConsole.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\obj\Debug\CoffeeAngelConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\obj\Debug\CoffeeAngelConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\bin\Debug\CoffeeAngelConsole.exe.config
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\bin\Debug\CoffeeAngelConsole.exe
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\bin\Debug\CoffeeAngelConsole.pdb
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\bin\Debug\CoffeeAngelLibrary.dll
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\bin\Debug\CoffeeAngelLibrary.pdb
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\obj\Debug\CoffeeAngelConsole.csproj.CopyComplete
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\obj\Debug\CoffeeAngelConsole.exe
+C:\Users\Admin\source\repos\CoffeeAngelLibrary\CoffeeAngelConsole\obj\Debug\CoffeeAngelConsole.pdb
